@@ -1,0 +1,32 @@
+<svg class="background">
+<gradientRect id="gradient" x="0" y="0" width="85%" height="85%"
+gradient-type="radial"
+gradient-x1="168" gradient-y1="168"
+gradient-color1="#0053fa"
+gradient-color2="black" />
+
+
+<!-- Set Text -->
+  <text id="myLabel" />  
+  <text id="mySteps" />
+  <text id="myCalories" />
+  <text id="hrm-data" /> 
+  <text id="AMPM" />
+  <text id="month" />
+
+  <!-- Set Icons -->
+  <image x="238" y="208" width="9%" height="9%" href="assets/stat_hr_open_32px.png" class="hr" />
+  <image x="152" y="208" width="9%" height="9%" href="assets/calories_36px.png" class="cal" />
+  <image x="68" y="208" width="9%" height="9%" href="assets/steps_36px.png" class="steps" />  
+
+  <!-- Battery Data -->
+  <image id="batteryIcon" x="60%" y="13" href="assets/battery.png" width="35" height="15" class="battery">
+  <rect id="batteryLevel" x="2" y="2" height="10" />
+</image>
+<text id="batPercent" />
+<image id="myCharge" x="62%" y="11" width="16" height="21" />
+
+<!-- Other UI Designs -->
+<line x1="10" y1="180" x2="326" y2="180" fill="lime" stroke-width="2" stroke-linecap="round"/>
+
+</svg>
