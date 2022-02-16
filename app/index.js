@@ -27,7 +27,7 @@ clock.ontick = (evt) => {
   myLabel.text = `${hours}:${mins}`;    
 }
 
-//Start Settings
+// Start Settings
 settings.initialize();
 
 
