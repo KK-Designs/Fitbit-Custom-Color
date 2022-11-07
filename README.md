@@ -1,4 +1,4 @@
-# Fitbit-Custom-Color
+# Fitbit Custom Color
 ---
 
 # What is this custom color?
@@ -24,4 +24,3 @@ Then initialize the the settings file as shown below:
  # Help
  
  To get help with an error make an issue here on the respitory or [email me here](mailto:kkart2007@gmail.com "Email me")
-
